@@ -1,3 +1,4 @@
+// Go to amazon orders page (current url: https://www.amazon.com/gp/your-account/order-history)
 // Script for tallying up amazon split. Just copy collectAndGoToNextPage into the console
 // repeatedly for all relevant pages. Use the reset function to wipe the slate, and the print
 // function to show the results.
